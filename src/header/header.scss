@@ -1,0 +1,14 @@
+@import "../style/color";
+
+.header {
+
+  &__menu {
+    display: flex;
+    padding: 20px 0;
+    border-bottom: 1px solid $text-color;
+    @media screen and (max-width: 767px) {
+      padding: 0;
+      border: none;
+    }
+  }
+}
