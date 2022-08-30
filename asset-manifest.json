@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/r-partfolio/static/css/main.26604aa1.css",
-    "main.js": "/r-partfolio/static/js/main.39a6587f.js",
+    "main.css": "/r-partfolio/static/css/main.64495466.css",
+    "main.js": "/r-partfolio/static/js/main.51797b06.js",
     "static/js/787.d323065d.chunk.js": "/r-partfolio/static/js/787.d323065d.chunk.js",
     "static/media/wp.png": "/r-partfolio/static/media/wp.764cbfc6e3015dea1242.png",
     "static/media/cert3.png": "/r-partfolio/static/media/cert3.c3a81031b8ae28fba616.png",
     "static/media/cert1.png": "/r-partfolio/static/media/cert1.48f80ffee9d4c52d0f95.png",
     "static/media/cert4.png": "/r-partfolio/static/media/cert4.8cd578dc36309417ec54.png",
     "static/media/cert2.png": "/r-partfolio/static/media/cert2.cd7c03dbc6734aed9bc6.png",
+    "static/media/PerfectPixel.svg": "/r-partfolio/static/media/PerfectPixel.147786059d2daeeaefe175f3ab0f4eea.svg",
+    "static/media/CSS3.svg": "/r-partfolio/static/media/CSS3.c3b518f098f081c4bcace474594d9928.svg",
+    "static/media/HTML5.svg": "/r-partfolio/static/media/HTML5.1d669a5e6229892b079e3b71ace0cfb6.svg",
+    "static/media/SCSS.svg": "/r-partfolio/static/media/SCSS.54f64b6aebdd37e0e0f9f4839ac108d8.svg",
+    "static/media/JAVASCRIPT.svg": "/r-partfolio/static/media/JAVASCRIPT.e5a35dc323acc9f8948d43ac32974d9f.svg",
+    "static/media/REACT.svg": "/r-partfolio/static/media/REACT.e192029c4681d4c9db18919dd005e864.svg",
+    "static/media/PS.svg": "/r-partfolio/static/media/PS.868439e3bca879b7ea74f8ab4682ef6f.svg",
+    "static/media/FIGMA.svg": "/r-partfolio/static/media/FIGMA.7cc814c03f20f916026c709beb9aa136.svg",
     "index.html": "/r-partfolio/index.html",
-    "main.26604aa1.css.map": "/r-partfolio/static/css/main.26604aa1.css.map",
-    "main.39a6587f.js.map": "/r-partfolio/static/js/main.39a6587f.js.map",
+    "static/media/WEBSTORM.svg": "/r-partfolio/static/media/WEBSTORM.10328d3b7451d0ff38e3464fd3f733e9.svg",
+    "static/media/GIT.svg": "/r-partfolio/static/media/GIT.453c9e8c918cdb580251378a7042ae5a.svg",
+    "static/media/WEBPACK.svg": "/r-partfolio/static/media/WEBPACK.344c587962fa7fda49e86ac11b466320.svg",
+    "main.64495466.css.map": "/r-partfolio/static/css/main.64495466.css.map",
+    "main.51797b06.js.map": "/r-partfolio/static/js/main.51797b06.js.map",
     "787.d323065d.chunk.js.map": "/r-partfolio/static/js/787.d323065d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26604aa1.css",
-    "static/js/main.39a6587f.js"
+    "static/css/main.64495466.css",
+    "static/js/main.51797b06.js"
   ]
 }
