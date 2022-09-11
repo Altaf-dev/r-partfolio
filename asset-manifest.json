@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/r-partfolio/static/css/main.597992e8.css",
-    "main.js": "/r-partfolio/static/js/main.6208ee0c.js",
+    "main.js": "/r-partfolio/static/js/main.e7adf7d0.js",
     "static/js/787.d323065d.chunk.js": "/r-partfolio/static/js/787.d323065d.chunk.js",
     "static/media/avtovoz.jpg": "/r-partfolio/static/media/avtovoz.425b2678e17819c69ca3.jpg",
     "static/media/certificate5.png": "/r-partfolio/static/media/certificate5.24e304fbd020ce3d8070.png",
@@ -33,11 +33,11 @@
     "static/media/GIT.svg": "/r-partfolio/static/media/GIT.453c9e8c918cdb580251378a7042ae5a.svg",
     "static/media/WEBPACK.svg": "/r-partfolio/static/media/WEBPACK.344c587962fa7fda49e86ac11b466320.svg",
     "main.597992e8.css.map": "/r-partfolio/static/css/main.597992e8.css.map",
-    "main.6208ee0c.js.map": "/r-partfolio/static/js/main.6208ee0c.js.map",
+    "main.e7adf7d0.js.map": "/r-partfolio/static/js/main.e7adf7d0.js.map",
     "787.d323065d.chunk.js.map": "/r-partfolio/static/js/787.d323065d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.597992e8.css",
-    "static/js/main.6208ee0c.js"
+    "static/js/main.e7adf7d0.js"
   ]
 }
